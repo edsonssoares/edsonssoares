@@ -2,7 +2,6 @@
 
 - 🔭 Estudante de Java Full Stack na SoulCode Academy
 - 🌱 Estudando HTML, CSS, JavaScript e Java
-- 😄 ele/dele
 
 <div align="center">
   <a href="https://github.com/edsonssoares">
