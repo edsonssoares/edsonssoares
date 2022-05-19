@@ -3,6 +3,8 @@
 - 🔭 Estudante de Java Full Stack na SoulCode Academy
 - 🌱 Estudando HTML, CSS, JavaScript e Java
 
+
+
 <div align="center">
   <a href="https://github.com/edsonssoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonssoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
