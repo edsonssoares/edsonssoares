@@ -1,7 +1,7 @@
-### Olá! Eu sou Edson Soares 👋
+### Hi! I am Edson Soares 👋
 
-- 🔭 Estudante de Java Full Stack na SoulCode Academy
-- 🌱 Estudando HTML, CSS, JavaScript e Java
+- 🔭 Full Stack Java Student at SoulCode Academy
+- 🌱 Studying HTML, CSS, JavaScript, typescript, Angular, Java and Spring Boot
 
 
 
